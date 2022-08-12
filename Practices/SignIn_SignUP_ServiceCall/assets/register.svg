@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="639" viewBox="0 0 360 639">
+  <defs>
+    <clipPath id="clip-Android_Mobile_1">
+      <rect width="360" height="639"/>
+    </clipPath>
+  </defs>
+  <g id="Android_Mobile_1" data-name="Android Mobile – 1" clip-path="url(#clip-Android_Mobile_1)">
+    <rect width="360" height="639" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M0,0H360V163.567s-35.092,68.906-102.124,80.391-98.922-38.368-166-25.057S0,305.555,0,305.555Z" transform="translate(0 0.086)" fill="#0d47a1"/>
+    <path id="Path_4" data-name="Path 4" d="M-20.191,222.034C11.1,80.73,36.118,68.561,124.7,68.561c39.685,0,53.692-34.017,110.981-51.158S353.856,0,353.856,0V455.884s-23.168,62.725-82.208,86.743-106.641-46.7-146.947-46.7C36.118,495.93-.478,633.778-.478,633.778S-51.486,363.338-20.191,222.034Z" transform="translate(353.856 640.431) rotate(-180)" fill="#9fa8da"/>
+    <path id="Path_5" data-name="Path 5" d="M0,0H360V163.567s-35.092,68.906-102.124,80.391-98.922-38.368-166-25.057S0,305.555,0,305.555Z" transform="translate(0 0.086)" fill="#0d47a1"/>
+  </g>
+</svg>
